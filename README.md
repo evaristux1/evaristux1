@@ -19,7 +19,7 @@
   <img align="center" alt="evaristo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="evaristo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="evaristo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://pa1.narvii.com/6540/45cabd8740dd1f9241a2c1d39cc7e474da8abd2e_hq.gif">
+<a href="https://app.daily.dev/evaristux1"><img src="https://api.daily.dev/devcards/ee38564118084c4388c284b3c7762a69.png?r=dfa" width="400" alt="Gabriel Evaristo's Dev Card"/></a>
  </div>
  
    
