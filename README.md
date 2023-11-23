@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Gabriel, mas pode me chamar de Evaristo 👋😎
 
 
-- 🔭 Trabalhando atualmente na empresa Tijuca Alimentos
-- 🌱 Estudando Flutter e todo tipo de desenvolvimento mobile.
-- 👯 Projetos secundários e  idéias de apps.
+- 🌱 Desenvolvedor FullStack.
+- 👯 Projetos secundários e idéias de apps.
 - ⚡ Desenvolvedor Js.
  <div>
   <a href="https://github.com/evaristux1">
